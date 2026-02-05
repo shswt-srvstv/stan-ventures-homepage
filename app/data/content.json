@@ -1,0 +1,96 @@
+{
+  "services": [
+    {
+      "title": "Managed Campaigns",
+      "desc": "Complete hands-off SEO management. We handle strategy, execution, and reporting while you maintain the client relationship.",
+      "icon": "service1.png"
+    },
+    {
+      "title": "Link Building",
+      "desc": "High-DR backlinks from real corporate blogs and news sites. No PBNs.",
+      "icon": "service2.png"
+    },
+    {
+      "title": "Content Engine",
+      "desc": "SEO-optimized articles written by subject matter experts, not just AI.",
+      "icon": "service3.png"
+    },
+    {
+      "title": "Local Presence",
+      "desc": "GMB optimization, local citations, and review management to capture local intent.",
+      "icon": "service4.png"
+    },
+    {
+      "title": "Technical Audits",
+      "desc": "Deep dive crawling to identify indexation bloat, canonical issues, and core web vitals failures.",
+      "icon": "service5.png"
+    },
+    {
+      "title": "White-label Dashboards",
+      "desc": "Give your clients a live view of their growth with your own branded portal.",
+      "icon": "service6.png"
+    }
+  ]
+
+
+,
+"testimonials": [
+  {
+    "name": "Sarah Jenkins",
+    "role": "Agency Owner, GrowthLabs",
+    "message": "Stan Ventures completely transformed our fulfillment process. We've scaled from 10 to 50 clients without hiring a single in-house SEO specialist."
+  },
+  {
+    "name": "David Chen",
+    "role": "CEO, DigitalFlow",
+    "message": "The transparency and reporting are unmatched. My clients are happy, retention is up, and I can focus on sales while they handle the heavy lifting."
+  }
+]
+
+,
+"cases": [
+  {
+    "title": "E-commerce Scale",
+    "stat": "240% Revenue Growth",
+    "image": "case1.png"
+  },
+  {
+    "title": "SaaS Domination",
+    "stat": "850% Organic Users",
+    "image": "case2.png"
+  },
+  {
+    "title": "Local Enterprise",
+    "stat": "125% Lead Volume",
+    "image": "case3.png"
+  }
+]
+
+,
+"process": [
+  {
+    "step": "01",
+    "title": "Discovery",
+    "desc": "We analyze your client's website, competitors, and goals to build a custom roadmap."
+  },
+  {
+    "step": "02",
+    "title": "Execution",
+    "desc": "Our team handles everything—content, links, technical fixes—while you take the credit."
+  },
+  {
+    "step": "03",
+    "title": "Scale",
+    "desc": "Receive white-label reports showing growth, then identify new opportunities to scale."
+  }
+]
+
+,
+"comparison": [
+  "White-Label Dashboard",
+  "Dedicated Account Manager",
+  "No Contract Lock-in",
+  "Native English Writers",
+  "Link Guarantee Policy"
+]
+}
